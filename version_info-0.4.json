@@ -1,7 +1,7 @@
 {
-  "version": "0.4.4",
-  "pck": "patch-0.4.4.pck",
-  "sig": "patch-0.4.4.pck.sig",
-  "sha256": "2eb68e9625c951e4af8cb33516589ad25ddd9b8f868db7ea42ec795cc3965383",
-  "bytes": 171648
+  "version": "0.4.5",
+  "pck": "patch-0.4.5.pck",
+  "sig": "patch-0.4.5.pck.sig",
+  "sha256": "c2f8e8ae8ec192c6920d30d9735fc22d95fba2fc44257fd5671556bf205a875c",
+  "bytes": 171712
 }
